@@ -1,0 +1,1 @@
+[02-May-2020 20:14:13 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/baguioonline.com/public_html/public/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/baguioonline.com/public_html/public/public/index.php on line 47
